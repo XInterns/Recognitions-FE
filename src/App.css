@@ -26,3 +26,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+a {
+  padding: 10px;
+}
+a:hover {
+  cursor: pointer;
+  color: darkgray;
+}
+.TagItem {
+  margin: 5px;
+  border-radius: 2px;
+  background-color: bisque;
+}
